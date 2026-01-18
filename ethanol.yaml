@@ -1,11 +1,3 @@
-################################################################
-
-Z74 Ethanol-air mechanism
-Developed by N. Zettervall
-FOI, Sweden, 2023-04-20
-
-################################################################
-
 generator: cti2yaml
 cantera-version: 3.0.0a4
 date: Mon, 24 Jun 2024 09:41:29 +0200
